@@ -3,6 +3,7 @@
 ## 📋 Description
 
 Application for analyzing the profitability of BEV (Battery Electric Vehicle) vehicles compared to ICE (Internal Combustion Engine) vehicles, written in the **PyQt5** framework.
+Made with the help of AI. :)
 
 ## ✨ Characteristics
 
@@ -143,4 +144,5 @@ Annual cost Golf: €3,440
 2. Click "Calculate" to display the results
 3. Click "Save profile" and enter a name (e.g. "My Profile")
 4. The profile is now available in the quick load list
+
 
